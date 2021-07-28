@@ -1,0 +1,15 @@
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot.deps.json
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot.runtimeconfig.json
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot.dll.config
+/home/DiscordBots/JungleRP - AnoBot/JungleRP - AnoBot.pdb
+/home/DiscordBots/JungleRP - AnoBot/Discord.Net.Commands.dll
+/home/DiscordBots/JungleRP - AnoBot/Discord.Net.Core.dll
+/home/DiscordBots/JungleRP - AnoBot/Discord.Net.Rest.dll
+/home/DiscordBots/JungleRP - AnoBot/Discord.Net.Webhook.dll
+/home/DiscordBots/JungleRP - AnoBot/Discord.Net.WebSocket.dll
+/home/DiscordBots/JungleRP - AnoBot/Microsoft.Bcl.AsyncInterfaces.dll
+/home/DiscordBots/JungleRP - AnoBot/Newtonsoft.Json.dll
+/home/DiscordBots/JungleRP - AnoBot/System.Interactive.Async.dll
+/home/DiscordBots/JungleRP - AnoBot/System.Linq.Async.dll

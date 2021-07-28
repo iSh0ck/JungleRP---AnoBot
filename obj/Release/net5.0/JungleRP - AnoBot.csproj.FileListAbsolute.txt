@@ -1,0 +1,25 @@
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.dll.config
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.deps.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.runtimeconfig.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.runtimeconfig.dev.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/ref/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/JungleRP - AnoBot.pdb
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Discord.Net.Commands.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Discord.Net.Core.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Discord.Net.Rest.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Discord.Net.Webhook.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Discord.Net.WebSocket.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/Newtonsoft.Json.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/System.Interactive.Async.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Release/net5.0/System.Linq.Async.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.csprojAssemblyReference.cache
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.csproj.CoreCompileInputs.cache
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.csproj.CopyComplete
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/ref/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.pdb
+/home/DiscordBots/JungleRP - AnoBot/obj/Release/net5.0/JungleRP - AnoBot.genruntimeconfig.cache

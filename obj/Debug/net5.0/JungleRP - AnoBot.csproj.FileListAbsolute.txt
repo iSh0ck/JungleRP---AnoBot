@@ -1,0 +1,97 @@
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.exe
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.dll.config
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.deps.json
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.runtimeconfig.json
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.runtimeconfig.dev.json
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/ref/JungleRP - AnoBot.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.pdb
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Commands.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Core.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Rest.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Webhook.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.WebSocket.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/Newtonsoft.Json.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/System.Interactive.Async.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/bin/Debug/net5.0/System.Linq.Async.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csprojAssemblyReference.cache
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.GeneratedMSBuildEditorConfig.editorconfig
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csproj.CoreCompileInputs.cache
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csproj.CopyComplete
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/ref/JungleRP - AnoBot.dll
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.pdb
+F:/Documents/_owncloud/Développment/VisualStudio/C#/JungleRP - AnoBot/JungleRP - AnoBot/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.genruntimeconfig.cache
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.deps.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.runtimeconfig.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.runtimeconfig.dev.json
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/ref/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/JungleRP - AnoBot.pdb
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Commands.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Core.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Rest.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.Webhook.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Discord.Net.WebSocket.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/System.Interactive.Async.dll
+/home/DiscordBots/JungleRP - AnoBot/bin/Debug/net5.0/System.Linq.Async.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csproj.CoreCompileInputs.cache
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csproj.CopyComplete
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/ref/JungleRP - AnoBot.dll
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.pdb
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.genruntimeconfig.cache
+/home/DiscordBots/JungleRP - AnoBot/obj/Debug/net5.0/JungleRP - AnoBot.csproj.AssemblyReference.cache
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.exe
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.deps.json
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.runtimeconfig.json
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.runtimeconfig.dev.json
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\ref\JungleRP - AnoBot.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\JungleRP - AnoBot.pdb
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.csproj.AssemblyReference.cache
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.csproj.CoreCompileInputs.cache
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.csproj.CopyComplete
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\ref\JungleRP - AnoBot.dll
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.pdb
+C:\Users\iSh0ck\Desktop\JungleRP - AnoBot.old\obj\Debug\net5.0\JungleRP - AnoBot.genruntimeconfig.cache
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.exe
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.deps.json
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.runtimeconfig.json
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.runtimeconfig.dev.json
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\ref\JungleRP - AnoBot.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\JungleRP - AnoBot.pdb
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Discord.Net.Commands.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Discord.Net.Core.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Discord.Net.Rest.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\System.Interactive.Async.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\bin\Debug\net5.0\System.Linq.Async.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.csproj.AssemblyReference.cache
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.csproj.CopyComplete
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\ref\JungleRP - AnoBot.dll
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.pdb
+F:\Documents\GitHub\iSh0ck\JungleRP - AnoBot\obj\Debug\net5.0\JungleRP - AnoBot.genruntimeconfig.cache
