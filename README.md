@@ -43,6 +43,6 @@ sudo apt-get update; \
 > All information about the installation of .NET on Linux can be found here: https://docs.microsoft.com/en-us/dotnet/core/install/linux-debian
 
 # Screenshots
-![Image of anonym chat](https://i.imgur.com/31XsaMz.png)
 ![Image of twitter](https://user-images.githubusercontent.com/30291488/127342189-f82f2388-abb4-432f-82dd-863818f1acfd.png)
 ![Image of instagram](https://user-images.githubusercontent.com/30291488/127342389-5344ab78-4f58-4c9f-83cb-8158e17719d7.png)
+![Image of anonym chat](https://i.imgur.com/31XsaMz.png)
